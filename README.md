@@ -13,7 +13,7 @@ Entre meus projetos recentes, destaquei-me na avaliação de diversos tipos de d
 
 Atualmente, sou Trainee de Suporte e Implantação na Nomus ERP, onde sou responsável por prestar suporte aos clientes, auxiliar na otimização de processos e realizar análises de dados. Utilizo as soluções da empresa para identificar padrões e oportunidades de melhoria, além de elaborar relatórios e dashboards e criar consultas em bancos de dados utilizando SQL. Mas também já fiz parte do time de Controladoria na Benteler, onde realizava análises mensais da evolução da Gross Margin, auxiliava na construção de relatórios de Planejamento Financeiro e automatizava processos utilizando VBA.
 
-Estou constantemente buscando melhorias e aprimoramentos nas minhas análises, por isso te convido a dar uma olhada nos meus [repositórios](https://github.com/JQuareli?tab=repositories), e caso precise, pode entrar em contato comigo por [e-amil](mailto:joaovicoq@gmail.com) ou entrar em contato por telefone/whatsapp: (19) 99860-0738
+Estou constantemente buscando melhorias e aprimoramentos nas minhas análises, por isso te convido a dar uma olhada nos meus [repositórios](https://github.com/JQuareli?tab=repositories), e caso precise, pode entrar em contato comigo por [e-mail](mailto:joaovicoq@gmail.com) ou entrar em contato por telefone/whatsapp: (19) 99860-0738
 
 <div>
 <h3 align="left">Conecte-se comigo:</h3>
